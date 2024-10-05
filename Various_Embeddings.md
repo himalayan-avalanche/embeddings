@@ -1,7 +1,4 @@
 # embeddings
-Overview of embedding systems and various use cases.
-
-Embeddings are dense, low-dimensional representations of data (such as words, sentences, or even images) in a continuous vector space. Different types of embeddings are used depending on the task and the data being processed. Below are some of the most common types of embeddings, primarily focusing on text embeddings, but also extending to images and graphs.
 
 ### 1. Word Embeddings
 
