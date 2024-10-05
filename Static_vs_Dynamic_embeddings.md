@@ -1,4 +1,4 @@
-# Statics and Dynamic Embeddings
+# Static and Dynamic Embeddings
 
 ### 1. Static Embeddings
 
